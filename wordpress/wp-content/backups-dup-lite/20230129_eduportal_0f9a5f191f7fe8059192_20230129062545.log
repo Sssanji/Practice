@@ -1,0 +1,72 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 29.01.2023 06:26
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.2
+WORDPRESS:	6.1.1
+PHP INFO:	7.2.34 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (1536M default) 
+MEMORY STACK: 8MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20230129_eduportal_0f9a5f191f7fe8059192_20230129062545_database.sql
+SQL FILE SIZE: 1.04MB (1095287)
+SQL FILE TIME: 2023-01-29 06:26:08
+SQL RUNTIME: 5.75 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  W:/domains/practice/wordpress
+ARCHIVE FILE: 20230129_eduportal_0f9a5f191f7fe8059192_20230129062545_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	72.65MB
+STATS:	Dirs 518 | Files 3,767
+SQL ADDED: 20230129_eduportal_0f9a5f191f7fe8059192_20230129062545_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4285
+    [filename] => W:\domains\practice\wordpress\wp-content\backups-dup-lite\tmp\20230129_eduportal_0f9a5f191f7fe8059192_20230129062545_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 4284
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 27MB
+ARCHIVE RUNTIME: 12.49 sec.
+MEMORY STACK: 8MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 1.04MB
+INSTALLER FILE: 73.35KB
+ARCHIVE FILE: 28.82MB 
+EXPECTED FILE/DIRECTORY COUNT: 4,285
+ACTUAL FILE/DIRECTORY COUNT: 4,284
+ТЕСТ ЛОГИКИ АРХИВА: Пройден
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 19.37 sec.
+PEAK PHP MEMORY USED: 10MB
+DONE PROCESSING => 20230129_eduportal 29.01.2023 06:26
+
